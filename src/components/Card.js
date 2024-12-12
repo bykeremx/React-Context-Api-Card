@@ -1,9 +1,13 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { FaBasketShopping } from "react-icons/fa6";
 import { Badge } from "reactstrap";
+import ProductsContext from './context/ProductsContext';
+
+
 
 
 const Card = () => {
+    const {card} = useContext(ProductsContext);
     return (
         <div>
             <Badge color="danger">
@@ -19,7 +23,7 @@ const Card = () => {
                         cursor: "pointer"
                     }
                 }>
-                    100
+                    {card.length}
                 </span>
             </Badge>
         </div>
