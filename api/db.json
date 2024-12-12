@@ -1,0 +1,129 @@
+{
+    "products": [
+        {
+          "name": "Dijital Saat",
+          "price": 249.99,
+          "image": "https://example.com/images/digital-watch.jpg",
+          "description": "Şık ve modern bir dijital saat."
+        },
+        {
+          "name": "Bluetooth Kulaklık",
+          "price": 399.99,
+          "image": "https://example.com/images/bluetooth-headphones.jpg",
+          "description": "Yüksek kaliteli ses ve rahat kullanım."
+        },
+        {
+          "name": "Akıllı Telefon",
+          "price": 7999.99,
+          "image": "https://example.com/images/smartphone.jpg",
+          "description": "En yeni teknolojiyle donatılmış akıllı telefon."
+        },
+        {
+          "name": "Kablosuz Klavye",
+          "price": 199.99,
+          "image": "https://example.com/images/wireless-keyboard.jpg",
+          "description": "Ergonomik tasarıma sahip kablosuz klavye."
+        },
+        {
+          "name": "Oyuncu Faresi",
+          "price": 349.99,
+          "image": "https://example.com/images/gaming-mouse.jpg",
+          "description": "Hassasiyet ve hız sağlayan profesyonel oyuncu faresi."
+        },
+        {
+          "name": "LED Masa Lambası",
+          "price": 149.99,
+          "image": "https://example.com/images/led-lamp.jpg",
+          "description": "Enerji tasarruflu ve şık tasarımlı LED lamba."
+        },
+        {
+          "name": "Taşınabilir Şarj Aleti",
+          "price": 299.99,
+          "image": "https://example.com/images/power-bank.jpg",
+          "description": "Yüksek kapasiteli taşınabilir şarj cihazı."
+        },
+        {
+          "name": "Tablet",
+          "price": 4999.99,
+          "image": "https://example.com/images/tablet.jpg",
+          "description": "Geniş ekranlı ve hızlı işlemcili tablet."
+        },
+        {
+          "name": "Akıllı Bileklik",
+          "price": 179.99,
+          "image": "https://example.com/images/smart-band.jpg",
+          "description": "Sağlık takibi için ideal bir akıllı bileklik."
+        },
+        {
+          "name": "Mini Bluetooth Hoparlör",
+          "price": 129.99,
+          "image": "https://example.com/images/bluetooth-speaker.jpg",
+          "description": "Kompakt ve güçlü ses kalitesine sahip hoparlör."
+        },
+        {
+          "name": "Dizüstü Bilgisayar",
+          "price": 12999.99,
+          "image": "https://example.com/images/laptop.jpg",
+          "description": "Yüksek performanslı dizüstü bilgisayar."
+        },
+        {
+          "name": "Mikrofonlu Kulaklık",
+          "price": 229.99,
+          "image": "https://example.com/images/headset.jpg",
+          "description": "Mikrofonlu ve rahat tasarımlı kulaklık."
+        },
+        {
+          "name": "VR Gözlük",
+          "price": 599.99,
+          "image": "https://example.com/images/vr-headset.jpg",
+          "description": "Sanal gerçeklik deneyimi için VR gözlük."
+        },
+        {
+          "name": "Masaüstü Hoparlör Seti",
+          "price": 699.99,
+          "image": "https://example.com/images/desktop-speakers.jpg",
+          "description": "Kristal netliğinde ses sağlayan hoparlör seti."
+        },
+        {
+          "name": "Akıllı Priz",
+          "price": 99.99,
+          "image": "https://example.com/images/smart-plug.jpg",
+          "description": "Uzaktan kontrol edilebilir akıllı priz."
+        },
+        {
+          "name": "Fitness Matı",
+          "price": 199.99,
+          "image": "https://example.com/images/fitness-mat.jpg",
+          "description": "Dayanıklı ve kaymaz fitness matı."
+        },
+        {
+          "name": "USB Bellek",
+          "price": 49.99,
+          "image": "https://example.com/images/usb-drive.jpg",
+          "description": "Hızlı ve güvenilir USB bellek."
+        },
+        {
+          "name": "Kameralı Güvenlik Sistemi",
+          "price": 1599.99,
+          "image": "https://example.com/images/security-camera.jpg",
+          "description": "Ev güvenliği için kapsamlı kamera sistemi."
+        },
+        {
+          "name": "Akıllı Termostat",
+          "price": 799.99,
+          "image": "https://example.com/images/smart-thermostat.jpg",
+          "description": "Enerji tasarrufu sağlayan akıllı termostat."
+        },
+        {
+          "name": "Kablosuz Şarj Cihazı",
+          "price": 149.99,
+          "image": "https://example.com/images/wireless-charger.jpg",
+          "description": "Hızlı şarj özellikli kablosuz şarj cihazı."
+        }
+      ],
+    "card":[
+
+    ]
+
+
+}
